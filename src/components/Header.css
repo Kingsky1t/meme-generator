@@ -1,0 +1,19 @@
+nav {
+     height:5rem;
+     display: grid;
+     color:#fff;
+     background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+     display:flex;
+     justify-content: center;
+     align-items: center;
+}
+
+nav>img {
+     height:4rem;
+     margin:0.2rem 0.5rem;
+}
+
+
+nav>h1 {
+
+}
